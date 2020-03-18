@@ -7,7 +7,7 @@ To reduce the chance of bugging, please don't click any buttons except Menu Butt
 
 ****
 ## Static Pages
-* [Station太空站](http://www.stationwisdomtree.tk/Station/Account.xhtml) 
+* [Station太空站](http://www.stationwisdomtree.tk/Station/Static.xhtml) 
 
 ****
 ## Dynamic Pages
